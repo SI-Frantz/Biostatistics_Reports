@@ -1,5 +1,13 @@
 # Biostatistics_Reports
-Github does not automatically render the html. To view these html reports, please use the following links: 
+
+Github does not automatically render the html. To view these html reports, please click on the following links: 
+
+Survival Analysis:  https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/AdvBiostatistics2_SurvivalAnalysisHW_1.html ; 
+
+Linear Modeling: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW14_SimulatedDataAnalysis_1.html; 
+
+Variable selection with sparse priors: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW15_Lasso_VariableSelection_1.html ; 
+
 PCA: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW16_PCA_1.html ;
 
 Matrix Factorization: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW18_MatrixFactorization_1.html ; 
