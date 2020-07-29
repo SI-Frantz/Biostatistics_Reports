@@ -2,7 +2,11 @@
 
 Github does not automatically render the html. To view these html reports, please click on the following links: 
 
+Exponential growth model for COVID-19 with Bayesian inference: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW20_Coronavirus.html
+
 Survival Analysis:  https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/AdvBiostatistics2_SurvivalAnalysisHW_1.html ; 
+
+Fitting parameters of the Lotka-Volterra ordinary differential equation model (ODE) with time-series data: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/ODE_Bayesian.html
 
 Generalized linear mixed model, prediction and cross-validation: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW9_PredictionsAndCrossvalidation_1.html  ; 
 
