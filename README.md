@@ -4,7 +4,7 @@ Github does not automatically render the html. To view these html reports, pleas
 
 Survival Analysis:  https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/AdvBiostatistics2_SurvivalAnalysisHW_1.html ; 
 
-Linear Modeling: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW14_SimulatedDataAnalysis_1.html; 
+Linear modeling, GLM, and random effects: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/StatsHW4_LinearModel_1.html ;
 
 Variable selection with sparse priors: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW15_Lasso_VariableSelection_1.html ; 
 
@@ -12,14 +12,8 @@ PCA: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_R
 
 Matrix Factorization: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW18_MatrixFactorization_1.html ; 
 
-Linear modeling and random effects: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW5_SFrantz_InvasiveSpecies_1.html ;
-
-Beta Binomial explanation: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW6_BetaBinomial_1.html ; 
-
 Prediction and Crossvalidation: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/HW9_PredictionsAndCrossvalidation_1.html  ; 
 
 Simple power analysis: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/SFrantz_Stats_Homework1_PowerAnalyses_1.html ;
-
-Linear modeling and model selection: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/StatsHW4_LinearModel_1.html ;
 
 Permutation analysis and ANOVA: https://htmlpreview.github.io/?https://github.com/SI-Frantz/Biostatistics_Reports/blob/master/Stats_HW3_Permutation_Anova_1.html
